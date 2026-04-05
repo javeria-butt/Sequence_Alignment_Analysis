@@ -1,7 +1,8 @@
-# **Algorithmic Evolution of Sequence Alignment: A Comparative Study**
+![C Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c)
+![Compiler](https://img.shields.io/badge/Compiler-GCC-FFD133?style=for-the-badge&logo=gnu)
+![OS](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 
-**Implementation Language:** C  
-**Environment:** Ubuntu Linux (GCC Compiler)
+# **Algorithmic Evolution of Sequence Alignment: A Comparative Study**
 
 ---
 
