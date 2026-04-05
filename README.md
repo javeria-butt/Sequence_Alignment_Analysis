@@ -74,4 +74,4 @@ time ./nw_exec
 1. **Needleman, S. B., & Wunsch, C. D. (1970).** A general method applicable to the search for similarities in the amino acid sequence of two proteins. *Journal of Molecular Biology*.
 2. **Smith, T. F., & Waterman, M. S. (1981).** Identification of Common Molecular Subsequences. *Journal of Molecular Biology*.
 3. **Validation Tool:** [Freiburg RNA Tools - Sequence Alignment](https://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Needleman-Wunsch)
-4. 
+
